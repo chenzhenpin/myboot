@@ -1,0 +1,5 @@
+com\hxy\rabbitmq\HelloTest.class
+com\hxy\rabbitmq\ManyTest.class
+com\hxy\rabbitmq\ObjectTest.class
+com\hxy\rabbitmq\TopicTest.class
+com\hxy\rabbitmq\FanoutTest.class

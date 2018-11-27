@@ -1,0 +1,4 @@
+demos\example\code\kafka\provider\KafkaSender.class
+demos\example\code\kafka\beas\Message.class
+demos\example\code\kafka\consumer\KafkaReceiver.class
+demos\example\code\kafka\KafkaApplication.class

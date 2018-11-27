@@ -1,0 +1,14 @@
+demos\example\code\tkmybaits\mapper\UserMapper.class
+demos\example\code\tkmybaits\dao\Student.class
+demos\example\code\tkmybaits\service\TestService.class
+demos\example\code\tkmybaits\service\impl\UserServiceImpl.class
+demos\example\code\tkmybaits\dao\User.class
+demos\example\code\tkmybaits\mapper\TestMapper.class
+demos\example\code\tkmybaits\service\impl\TestServiceImpl.class
+demos\example\code\tkmybaits\service\UserService.class
+demos\example\code\tkmybaits\dao\Clazz.class
+demos\example\code\tkmybaits\dao\Course.class
+demos\example\code\tkmybaits\entity\User.class
+demos\example\code\tkmybaits\dao\Card.class
+demos\example\code\tkmybaits\controller\TestController.class
+demos\example\code\tkmybaits\TkApplication.class

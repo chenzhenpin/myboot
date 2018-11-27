@@ -1,0 +1,5 @@
+demos\example\code\resource\config\TokenStoreConfig$ResourceApplicaption.class
+demos\example\code\resource\authorize\MerryyouResourceServerConfiguration.class
+demos\example\code\resource\config\TokenStoreConfig$JwtTokenCofnig.class
+demos\example\code\resource\ResourceApplication.class
+demos\example\code\resource\config\TokenStoreConfig.class
